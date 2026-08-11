@@ -27,7 +27,7 @@ Software Engineer
     <img 
       align="center" 
       width="400" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Macpernamcfarna&repo=NaWiCulture&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" 
+      src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR353debXm6xou6jhEHdKGCGJbyV6_twTK3IWBTio8sxkRgSRieZxmUAYe345RD" 
       alt="NaWiCulture GitHub Stats" 
     />
   </a>
