@@ -25,10 +25,11 @@ Software Engineer
 <div align="center">
   <a href="https://github.com/Macpernamcfarna/NaWiCulture">
     <img 
-      align="center" 
-      width="400" 
       src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR353debXm6xou6jhEHdKGCGJbyV6_twTK3IWBTio8sxkRgSRieZxmUAYe345RD" 
-      alt="NaWiCulture GitHub Stats" 
+      alt="NaWiCulture Icon" 
+      width="32" 
+      height="32" 
+      style="vertical-align: middle; border-radius: 6px;"
     />
   </a>
 </div>
