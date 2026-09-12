@@ -1,15 +1,17 @@
-# Hi! 👋 My name is Macperna Mcfarna
+# Hi, I'm Macperna Mcfarna 👋
 
-## Software Engineer
+### Software Engineer | Backend & Web Development
 
-Software Engineer focused on building web applications, REST APIs, and backend systems with JavaScript, TypeScript, Node.js, Express.js, MongoDB, and MySQL.
+I'm a software engineer based in Sierra Leone, focused on building web applications, REST APIs, and database-driven backend systems.
 
-My journey since 2024 has involved self-teaching web development alongside academic study in Software Engineering. I enjoy turning ideas into working software, experimenting with new technologies, and continuously improving my programming and problem-solving skills.
+Since 2024, I've been self-teaching software development alongside my academic studies in Software Engineering. I enjoy turning ideas into working software, understanding how systems work under the hood, and continuously improving my programming and problem-solving skills.
 
-* 🌍 I'm based in Sierra Leone
-* ✉️ You can contact me at [macpernamcfarna@gmail.com](mailto:macpernamcfarna@gmail.com)
-* 🧠 I'm currently learning Python
-* 💬 Ask me about JavaScript, TypeScript, Node.js, Express.js, REST APIs, and MongoDB
+* 🌍 Based in Sierra Leone
+* ✉️ [macpernamcfarna@gmail.com](mailto:macpernamcfarna@gmail.com)
+* 🌐 [Portfolio Website](https://macpernamcfarna.github.io/private-webpage/)
+* 🧠 Currently learning Python
+* 💻 Focused on backend development and software engineering
+* 🔐 Interested in backend architecture, API security, and DevSecOps
 
 ## Technologies & Tools
 
@@ -17,6 +19,7 @@ My journey since 2024 has involved self-teaching web development alongside acade
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" width="36" height="36" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/white" alt="Express.js" title="Express.js" width="36" height="36" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
@@ -27,26 +30,24 @@ My journey since 2024 has involved self-teaching web development alongside acade
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>
 
-## What I Build
+## What I Work With
 
-* REST APIs with Node.js, Express.js, and TypeScript
-* CRUD applications and backend services
-* Authentication systems with Passport.js and bcrypt
-* MongoDB applications using Mongoose
-* Full-stack web applications
-* GraphQL APIs with Apollo Server
-* Database-driven applications using MySQL and MongoDB
+* **Backend Development:** Node.js, Express.js, TypeScript, PHP
+* **Databases:** MongoDB, MySQL
+* **APIs:** REST APIs, GraphQL
+* **Authentication:** Passport.js, bcrypt, session-based authentication
+* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Tools & Systems:** Git, GitHub, Docker, Linux, Bash, VS Code
 
 ## Featured Projects
 
 ### CRUD-User-API
 
-A modern REST API for managing blog users built with Express.js and TypeScript.
+A REST API for managing blog users, built with Express.js and TypeScript.
 
 **Tech:** TypeScript, Express.js, REST API
 
@@ -56,7 +57,7 @@ A modern REST API for managing blog users built with Express.js and TypeScript.
 
 ### URL_SHORTENER
 
-A full-stack URL shortener built with Node.js, Express.js, MongoDB, and EJS. Users can convert long URLs into short, shareable links and track link usage.
+A full-stack URL shortener built with Node.js, Express.js, MongoDB, and EJS. Users can convert long URLs into short, shareable links.
 
 **Tech:** Node.js, Express.js, MongoDB, Mongoose, EJS
 
@@ -66,9 +67,9 @@ A full-stack URL shortener built with Node.js, Express.js, MongoDB, and EJS. Use
 
 ### node-passport-auth
 
-A Node.js and Express authentication boilerplate featuring Passport.js, MongoDB/Mongoose, bcryptjs, EJS, and Bootstrap 5.
+An authentication-focused Node.js application demonstrating Passport.js, MongoDB/Mongoose, bcryptjs, EJS, and Bootstrap.
 
-**Tech:** Node.js, Express.js, Passport.js, MongoDB, Mongoose, bcryptjs, EJS, Bootstrap
+**Tech:** Node.js, Express.js, Passport.js, MongoDB, Mongoose, bcryptjs
 
 [View Repository](https://github.com/Macpernamcfarna/node-passport-auth)
 
@@ -76,7 +77,7 @@ A Node.js and Express authentication boilerplate featuring Passport.js, MongoDB/
 
 ### pet-management-api
 
-A lightweight TypeScript Express API for managing and querying pet data. Includes route handling, ID-based retrieval, query parameters, and custom input validation.
+A lightweight TypeScript Express API for managing and querying pet data, including ID-based retrieval, query parameters, and custom validation.
 
 **Tech:** TypeScript, Express.js, REST API
 
@@ -86,7 +87,7 @@ A lightweight TypeScript Express API for managing and querying pet data. Include
 
 ### NaWiCulture
 
-A full-stack cultural website built with HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. Includes contact and newsletter functionality.
+A full-stack cultural website built with HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, featuring contact and newsletter functionality.
 
 **Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 
@@ -96,7 +97,7 @@ A full-stack cultural website built with HTML, CSS, JavaScript, Node.js, Express
 
 ### GraphQL-Game-API
 
-A small Apollo Server project that exposes mock game data through GraphQL queries and mutations for learning, testing, and experimentation.
+A learning project built with Apollo Server that exposes mock game data through GraphQL queries and mutations.
 
 **Tech:** JavaScript, GraphQL, Apollo Server
 
@@ -104,18 +105,26 @@ A small Apollo Server project that exposes mock game data through GraphQL querie
 
 ## Other Projects
 
-I've also built projects involving:
+I've also worked on projects involving:
 
 * Weather APIs
-* Browser games
+* Browser-based games
 * QR code applications
-* Expense tracking
+* Expense tracking systems
 * Currency conversion
-* URL shortening
 * Database applications
 * Authentication systems
 
-## Socials
+## Currently Learning
+
+* Python
+* Advanced TypeScript
+* Backend architecture
+* API security
+* Docker and containerization
+* Linux and systems administration
+
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/Macpernamcfarna" target="_blank" rel="noreferrer">
@@ -129,17 +138,9 @@ I've also built projects involving:
 </a>
 </p>
 
-## Currently Learning
-
-* Python
-* Advanced TypeScript
-* Backend architecture
-* API security
-* Docker and containerization
-* Linux
-
 ---
 
 <p align="center">
-Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
 </p>
+
